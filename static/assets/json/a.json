@@ -6,12 +6,6 @@
     "custom": "true"
   },
   {
-    "name": "! [NEW] Request An App",
-    "link": "https://forms.gle/3yXuz6Hk1DhZbEAg6",
-    "image": "/assets/media/icons/request.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Xbox Cloud Gaming",
     "link": "www.xbox.com/en-us/play",
     "image": "https://cdn2.steamgriddb.com/icon_thumb/164f545c22e17e5e9298b1c84b9e3e1e.png",
